@@ -1,4 +1,5 @@
 ### Hi there 👋
+- :smile: My name is Colton Lewis, I'm a third year history major at the University of Oregon and I am minoring in Digital Humanities. Im currently working on my project for ENG 470, as well as a research paper for my USSR & Contemporary Russia class.
 
 <!--
 **coltonlewis10/coltonlewis10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
